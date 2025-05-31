@@ -146,7 +146,7 @@ Caso deseje rodar os testes unitários (se houver):
 
 ---
 
-## 🔒 Autenticação (opcional)
+## 🔒 Autenticação
 
 Este projeto está preparado para futura inclusão de autenticação (por exemplo, com Spring Security + JWT). Por padrão não exige autenticação
 
